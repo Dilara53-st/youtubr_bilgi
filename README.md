@@ -1,5 +1,5 @@
 # youtube_bilgi
-yotube videosudan başlık ve beğeni, izlenme verilerini çeken pytho projesi 
+yotube videosudan başlık ve beğeni, izlenme verilerini çeken python projesi 
 
 import yt_dlp
 from datetime import datetime
