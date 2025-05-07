@@ -1,9 +1,8 @@
 # youtube_bilgi
-yotube videosudan başlık ve beğeni, izlenme verilerini çeken python projesi 
+#yotube videosudan başlık ve beğeni, izlenme verilerini çeken python projesi 
 ## Gereksinimler
-Bu projeyi çalıştırmak için aşağıdaki kütüphane gereklidir:
-```bash
-pip install yt-dlp
+#Bu projeyi çalıştırmak için aşağıdaki kütüphane gereklidir:
+#pip install yt-dlp
 
 import yt_dlp
 from datetime import datetime
